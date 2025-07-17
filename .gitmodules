@@ -1,0 +1,3 @@
+[submodule "sub"]
+	url = https://github.com/etum-dev/OS-tan.git
+	path = "sub"
